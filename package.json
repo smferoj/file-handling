@@ -4,7 +4,7 @@
   "description": "",
   "main": "single-file-upload.js",
   "scripts": {
-    "start":"nodemon multiple-file-upload.js "
+    "start":"nodemon image-upload.js "
   },
   "keywords": [],
   "author": "",
